@@ -1,0 +1,62 @@
+How did viewing a diff between two versions of a file
+help you see the bug that was introduced?
+
+Most of the time, we have a old version who worked
+and when we try some new things we make bug
+When we compare the old version and the new one
+we can see the difference and find the error if it's
+a typo.
+
+
+How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+
+You can use the old files to compare with the new one
+as we see in the last question.
+But also, you can restore an old version who is working
+if you have an actual who needs some modification.
+And you have some save in case of big problem like loose
+your computer.
+
+
+What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+Pros : You know when you do it so you remeber the changes
+You sure that the code compile when you do it
+Cons : You can forget to do it sometimes and loose things
+
+
+Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+It's because Git is optimized for code files
+and most of the time the code files are linked
+with other files.
+In the other hand, Google Docs is for document like
+Powerpoint or word who are not really linked each other
+
+
+How can you use the commands git log and git diff
+to view the history of files?
+
+Git log show me the history of files and then I can compare
+them with git diff
+
+
+How might using version control make you more confident
+to make changes that could break something?
+
+It's really easy to go back and see what is breaking
+so don't worry
+
+
+Now that you have your workspace set up,
+what do you want to try using Git for?
+
+In fact I want to use it for an android project
+for a home made appliction. But it is a little big
+for the fisrt try. So may be it's more reasonable
+to try it on my actual matlab work
