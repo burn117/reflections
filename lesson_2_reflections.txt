@@ -8,3 +8,11 @@ How is the staging area different from the working directory and the repository?
 
 It offer the possibility to choose our files we want to commit
 together.
+
+
+How can you use the staging area to make sure
+you have one commit per logical change?
+
+By using git diff --staged and see the change
+if there is more than one logical change, I can
+commit the files with a different way for exemple
