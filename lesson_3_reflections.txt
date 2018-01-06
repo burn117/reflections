@@ -12,3 +12,11 @@ having Git automatically stay up-to-date with your remote repository?
 Because if we are more than one to work on a project, when someone
 push something, it will modify my version I'm working on and I don't
 want that to happen
+
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+fork : to clone an online git and do my stuff on it
+clones : to work directly on the git and commit or push on it
+branch : really local process to work on experimental things
