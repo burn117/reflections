@@ -27,3 +27,10 @@ state of the remote stored locally?
 
 To know if there some new file in the remote when we will
 try to push or pull some data trought it
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+everything seems to be harder without. But I'm afraid
+on a big project I will have a lot of pull request and
+conflict to manage
