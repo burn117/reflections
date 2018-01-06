@@ -1,1 +1,6 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository
+rather than keeping all your work local?
+
+It can be interesting to share my work or
+work with different computer in different
+place. It is also a good cloud storage
