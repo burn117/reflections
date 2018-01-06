@@ -20,3 +20,10 @@ When would you use one instead of another?
 fork : to clone an online git and do my stuff on it
 clones : to work directly on the git and commit or push on it
 branch : really local process to work on experimental things
+
+
+What is the benefit of having a copy of the last known
+state of the remote stored locally?
+
+To know if there some new file in the remote when we will
+try to push or pull some data trought it
