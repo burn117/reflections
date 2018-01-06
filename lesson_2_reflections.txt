@@ -37,3 +37,10 @@ Why do we represent it in the diagram the way we do?
 the result of merging two branch is to combine the two branch
 in one. So the last commit have two parents.
 We represent with this diagram because it is like a three.
+
+
+What are the pros and cons of Git’s automatic
+merging vs. always doing merges manually?
+
+pros : it take some times
+cons : you sure of what you have at the end
